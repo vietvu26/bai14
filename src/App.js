@@ -8,8 +8,8 @@ function App() {
     <div>
     <h1>Bai1</h1>
     <Bai1/>
-    {/* <h1>Bai2</h1>
-    <Bai2/> */}
+    {<h1>Bai2</h1>
+    <Bai2/>}
     </div>
   );
 }
